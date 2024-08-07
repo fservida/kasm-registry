@@ -1,6 +1,6 @@
 {
   "friendly_name": "Docker - Conda",
-  "image_src": "1875bdad-d1a2-4f36-a457-a01532900a89.jpg",
+  "image_src": "docker.jpg",
   "description": "Environment with Docker and Miniconda available",
   "name": "ohchr/docker-conda:latest",
   "cores": 2,
@@ -32,7 +32,7 @@
     "1.13.x",
     "1.14.x",
     "1.15.x",
-    "1.16.x",
+    "1.16.x"
   ],
   "uncompressed_size_mb": 2170
 }
