@@ -1,6 +1,6 @@
 {
   "friendly_name": "Docker - Conda",
-  "image_src": "docker.jpg",
+  "image_src": "docker-conda.jpg",
   "description": "Environment with Docker and Miniconda available",
   "name": "ohchr/docker-conda:latest",
   "cores": 2,
